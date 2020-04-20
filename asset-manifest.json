@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-12-challenge/static/css/main.656f0744.chunk.css",
+    "main.js": "/react-12-challenge/static/js/main.a331d011.chunk.js",
+    "main.js.map": "/react-12-challenge/static/js/main.a331d011.chunk.js.map",
+    "runtime-main.js": "/react-12-challenge/static/js/runtime-main.703faee2.js",
+    "runtime-main.js.map": "/react-12-challenge/static/js/runtime-main.703faee2.js.map",
+    "static/js/2.5fc70593.chunk.js": "/react-12-challenge/static/js/2.5fc70593.chunk.js",
+    "static/js/2.5fc70593.chunk.js.map": "/react-12-challenge/static/js/2.5fc70593.chunk.js.map",
+    "index.html": "/react-12-challenge/index.html",
+    "precache-manifest.8b130d3d839977f8b49721b0550d3087.js": "/react-12-challenge/precache-manifest.8b130d3d839977f8b49721b0550d3087.js",
+    "service-worker.js": "/react-12-challenge/service-worker.js",
+    "static/css/main.656f0744.chunk.css.map": "/react-12-challenge/static/css/main.656f0744.chunk.css.map",
+    "static/js/2.5fc70593.chunk.js.LICENSE.txt": "/react-12-challenge/static/js/2.5fc70593.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.703faee2.js",
+    "static/js/2.5fc70593.chunk.js",
+    "static/css/main.656f0744.chunk.css",
+    "static/js/main.a331d011.chunk.js"
+  ]
+}
